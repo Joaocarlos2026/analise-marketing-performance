@@ -21,7 +21,7 @@ A empresa precisava entender:
 ## 🗂️ Base de dados
 
 * Fonte: Dados simulados
-* Volume: em torno de 5000 dados
+* Volume: 10.000 dados
 * Informações: campanhas, canais, custos, cliques, conversões e receita
 
 ---
@@ -49,9 +49,8 @@ A empresa precisava entender:
 
 ## 📈 Principais insights
 
-* O canal [X] apresentou maior ROI
-* A campanha [Y] teve alto custo, mas baixa conversão
-* O canal [Z] possui alto volume de cliques, porém baixa eficiência
+* O canal Facebook ADS apresentou maior ROI
+* A campanha CMP-1802 Apresentou um ROI negativo
 
 ---
 
@@ -80,8 +79,8 @@ A empresa precisava entender:
 ---
 
 ## 👨‍💻 Autor
-João Carlos de Oliveira Ramos
+* João Carlos de Oliveira Ramos
 
-🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/
-🔗 GitHub: https://github.com/Joaocarlos2026
-🔗 EMAIL : joaocarlos_Ramos@outlook.com.br
+* 🔗 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-carlos-b579a4401/
+* 🔗 GitHub: https://github.com/Joaocarlos2026
+* 🔗 EMAIL : joaocarlos_Ramos@outlook.com.br
